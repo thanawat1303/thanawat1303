@@ -19,7 +19,7 @@
 
 ## :technologist: About Me :
 I'm Thanawat Iamla-o Computer engineering student at Rajamangala University of Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-  - I love working on code <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
+  - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
 
 ---
 ### :hammer_and_wrench: Languages and Tools :
