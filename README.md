@@ -18,7 +18,7 @@
 </h1>
 
 ## :technologist: About Me :
-I'm Thanawat Iamla-o Computer engineering student at Rajamangala University of Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
 
 ---
