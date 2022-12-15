@@ -12,4 +12,16 @@
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black%22">
   </a>
 </div>
-<h2 color="red" align="center">:japanese_ogre::dizzy: Hello ,  I'm Thanawat Iamla-o :dizzy::japanese_ogre:</h2>
+<h1 align="center">
+  hey guys
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
+</h1>
+
+## :technologist: About Me :
+I'm Thanawat Iamla-o Computer engineering student at Rajamangala University of Technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - I love working on code <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
+
+---
+### :hammer_and_wrench: Languages and Tools :
+  
+  
