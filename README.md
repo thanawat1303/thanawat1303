@@ -41,6 +41,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="https://github.com/thanawat1303/ImageIcon/blob/main/google-firebase-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="https://github.com/thanawat1303/ImageIcon/blob/main/mysql-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="https://github.com/thanawat1303/ImageIcon/blob/main/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="https://github.com/thanawat1303/ImageIcon/blob/main/linux.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
   
   
