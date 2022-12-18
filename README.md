@@ -44,4 +44,12 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="https://github.com/thanawat1303/ImageIcon/blob/main/linux.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
   
-  
+---
+### :fire: Stats :
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=thanawat1303&theme=omni">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&theme=vision-friendly-dark">
+</div>
