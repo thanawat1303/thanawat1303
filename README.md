@@ -55,5 +55,5 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&langs_count=6&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&langs_count=8&theme=vision-friendly-dark">
 </div>
