@@ -21,6 +21,7 @@
 
 I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of Technology Thanyaburi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
+  - Email : https://1163104005900@mail.rmutt.ac.th
   - [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
   - ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
 
@@ -55,5 +56,5 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&langs_count=8&theme=vision-friendly-dark">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&langs_count=10&theme=vision-friendly-dark">
 </div>
