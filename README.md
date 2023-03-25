@@ -11,7 +11,7 @@
   <a href="https://www.instagram.com/ffirst03/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black%22">
   </a>
-  <a href="mailto:https://1163104005900@mail.rmutt.ac.th">
+  <a href="mailto:1163104005900@mail.rmutt.ac.th">
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=gmail&logoColor=black%22">
   </a>
 </div>
