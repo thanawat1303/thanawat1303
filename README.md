@@ -11,6 +11,9 @@
   <a href="https://www.instagram.com/ffirst03/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black%22">
   </a>
+  <a href="mailto:https://1163104005900@mail.rmutt.ac.th">
+    <img src="https://img.shields.io/badge/Contect-white?style=for-the-badge&logo=gmail&logoColor=black%22">
+  </a>
 </div>
 <h1 align="center">
   hey guys
@@ -21,7 +24,6 @@
 
 I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of Technology Thanyaburi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
-  - Email : https://1163104005900@mail.rmutt.ac.th
   - [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
   - ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
 
