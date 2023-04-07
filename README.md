@@ -49,7 +49,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/linux.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/docker.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/React.svg" width="40" height="40">&nbsp;&nbsp;
-    <img src="ImageIcon/Mendix-Logo.wine.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/Mendix-Logo.wine.png" width="40" height="40">&nbsp;&nbsp;
   </div>
   
 ---
