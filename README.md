@@ -43,6 +43,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/javascript-programming-language-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/php-programming-language-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/node-js-svgrepo-com.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/typescript-official-svgrepo-com.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/google-firebase-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/mysql-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
@@ -50,7 +51,6 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/docker.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/React.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/Mendix-Logo.wine.png" width="40" height="40">&nbsp;&nbsp;
-    <img src="ImageIcon/typescript-official-svgrepo-com.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
   
 ---
