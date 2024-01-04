@@ -33,6 +33,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/c-program-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/java-programming-language-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/python-programming-language-icon.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/fastapi.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/qt-1.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/arduino.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/flutter-icon.svg" width="40" height="40">&nbsp;&nbsp;
@@ -47,6 +48,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/typescript-official-svgrepo-com.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/google-firebase-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/mysql-icon.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/postgresql.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/linux.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/docker.svg" width="40" height="40">&nbsp;&nbsp;
