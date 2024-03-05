@@ -52,10 +52,10 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/linux.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/docker.svg" width="40" height="40">&nbsp;&nbsp;
-    <img src="ImageIcon/nginx.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/nginx.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/Apache-Airflow.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/React.svg" width="40" height="40">&nbsp;&nbsp;
-    <img src="ImageIcon/mui.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/mui.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/Mendix-Logo.wine.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/proteus.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/socket-io.svg" width="40" height="40">&nbsp;&nbsp;
