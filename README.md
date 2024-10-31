@@ -2,13 +2,13 @@
   <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="200"/>
 </div>
 <div align="center">
-  <a href="https://web.facebook.com/Thanawatdduck13">
+  <a href="https://web.facebook.com/ftiamlaor">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=black%22">
   </a>
   <a href="https://www.youtube.com/channel/UCkx_PpF-u1EwNk9NmtAkBsA">
     <img src="https://img.shields.io/badge/youtube-red?style=for-the-badge&logo=youtube&logoColor=black%22">
   </a>
-  <a href="https://www.instagram.com/ffirst03/">
+  <a href="https://www.instagram.com/ft_firstt/">
     <img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black%22">
   </a>
   <a href="mailto:1163104005900@mail.rmutt.ac.th">
@@ -22,7 +22,7 @@
 
 ## :technologist: About Me :
 
-I'm Thanawat Iamla-o, Computer engineering from Rajamangala University of Technology Thanyaburi <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Thanawat Iamla-o, Computer engineering from Rajamangala University of Technology Thanyaburi. Want know to try <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
   - [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
   - ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
