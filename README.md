@@ -62,6 +62,7 @@ I'm Thanawat Iamla-o , Computer engineering student at Rajamangala University of
     <img src="ImageIcon/socket-io.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/figma.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/canva.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/gitlab.png" width="40" height="40">&nbsp;&nbsp;
   </div>
   
 ---
