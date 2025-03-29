@@ -16,12 +16,8 @@
   </a>
 </div>
 <div align="center">
-  <div>
-    [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
-  </div>
-  <div>
-    ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
-  </div>
+  - [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
+  - ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
 </div>
 <h1 align="center">
   hey guys
