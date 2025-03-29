@@ -19,6 +19,8 @@
   <a href="https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213">
     <img src="https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg">
   </a>
+</div>
+<div align="center">
   <a href="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
     <img src="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
   </a>
