@@ -22,9 +22,8 @@
 
 ## :technologist: About Me :
 
-I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
   - Computer engineering from Rajamangala University of Technology Thanyaburi.
-  - I love coding <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
   - [![wakatime](https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg)](https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213)
   - ![](https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4)
 
