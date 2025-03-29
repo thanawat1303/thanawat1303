@@ -15,16 +15,6 @@
     <img src="https://img.shields.io/badge/Contact-white?style=for-the-badge&logo=gmail&logoColor=black%22">
   </a>
 </div>
-<div align="center">
-  <a href="https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213">
-    <img src="https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg">
-  </a>
-</div>
-<div align="center">
-  <a href="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
-    <img src="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
-  </a>
-</div>
 <h1 align="center">
   hey guys
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>
@@ -34,7 +24,14 @@
 
 I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="70">
 - Computer engineering from Rajamangala University of Technology Thanyaburi.
-
+<div align="center">
+  <a href="https://wakatime.com/@5f42a6cf-0d57-4170-aa9b-cc1cb014c213">
+    <img src="https://wakatime.com/badge/user/5f42a6cf-0d57-4170-aa9b-cc1cb014c213.svg">
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
+    <img src="https://komarev.com/ghpvc/?username=thanawat1303&color=ff69b4">
+  </a>
+</div>
 ---
 ### :hammer_and_wrench: Languages and Tools :
   <div align="center">
