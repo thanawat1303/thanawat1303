@@ -56,7 +56,10 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
     <img src="ImageIcon/google-firebase-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/mysql-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/postgresql.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/mongodb.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/RabbitMQ.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/Redis.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/linux.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/gitlab.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/docker.svg" width="40" height="40">&nbsp;&nbsp;
@@ -64,11 +67,13 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
     <img src="ImageIcon/Apache-Airflow.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/React.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/mui.png" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/react-flow.webp" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/Mendix-Logo.wine.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/proteus.png" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/socket-io.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/figma.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/canva.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/New4j.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
   
 ---
