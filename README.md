@@ -57,7 +57,7 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
     <img src="ImageIcon/mysql-icon.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/postgresql.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/mongodb.svg" width="40" height="40">&nbsp;&nbsp;
-    <img src="ImageIcon/oracle-6.svg" width="40" height="40">&nbsp;&nbsp;
+    <img src="ImageIcon/Oracle.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/RabbitMQ.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/Redis.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/linux.svg" width="40" height="40">&nbsp;&nbsp;
