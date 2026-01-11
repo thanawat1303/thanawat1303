@@ -75,9 +75,9 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
     <img src="ImageIcon/canva.svg" width="40" height="40">&nbsp;&nbsp;
     <img src="ImageIcon/New4j.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
-  
-<!-- ---
-### :fire: Stats :
+
+---
+<!-- ### :fire: Stats :
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thanawat1303&theme=omni">
 </div>
