@@ -76,7 +76,7 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
     <img src="ImageIcon/New4j.svg" width="40" height="40">&nbsp;&nbsp;
   </div>
   
----
+<!-- ---
 ### :fire: Stats :
 <div align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=thanawat1303&theme=omni">
@@ -84,4 +84,4 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanawat1303&layout=compact&langs_count=8&theme=vision-friendly-dark">
-</div>
+</div> -->
