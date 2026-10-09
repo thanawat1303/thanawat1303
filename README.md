@@ -36,7 +36,7 @@ I'm Thanawat Iamla-o, Want know to try <img src="https://media.giphy.com/media/W
 ---
 ### :fire: Expertise :
   - Architecture & System Design: Microservices, Modular Architecture, Distributed Systems, Event-Driven Workflows
-  - Full Stack Development: Frontend Architecture, State Management, RESTful/GraphQL APIs, Backend Services
+  - Full Stack Development: Frontend Architecture, State Management, RESTful APIs, Backend Services
   - Database & Caching: Relational & NoSQL Databases & Graph Database, Data Modeling, Caching, Messaging Technologies
   - DevOps & Infrastructure: Docker, CI/CD Pipelines, Containerized Deployment, Production Monitoring & Troubleshooting
   - AI & Model Serving: AI Model Integration, Inference Optimization, vLLM, GPU-Based Cloud Infrastructure
